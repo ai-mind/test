@@ -10,7 +10,7 @@
       <releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</releaseNotesLink>
       <enclosure
         url="https://github.com/USER/REPO/releases/download/v0.1.0/WindowShift-0.1.0.zip"
-        version="0.1.0"
+        version="2.1.0"
         edSignature="BASE64..."
         length="12055563"
         type="application/zip"/>
