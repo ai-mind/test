@@ -7,7 +7,10 @@
       <title>Version 2.1.0</title>
       <pubDate>Sat, 13 Dec 2025 19:15:05 +0000</pubDate>
       <minimumSystemVersion>12.1</minimumSystemVersion>
-      <releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</releaseNotesLink>
+      <releaseNotes>
+        Bug fixes
+        New feature: make everything great again
+      </releaseNotes>
       <enclosure
         url="https://github.com/USER/REPO/releases/download/v0.1.0/WindowShift-0.1.0.zip"
         version="2.1.0"
@@ -20,7 +23,9 @@
       <title>Version 0.0.9</title>
       <pubDate>Sat, 13 Dec 2025 19:15:05 +0000</pubDate>
       <minimumSystemVersion>12.1</minimumSystemVersion>
-      <releaseNotesLink>https://alt-tab-macos.netlify.app/changelog-bare</releaseNotesLink>
+      <releaseNotes>
+        Stability improvement
+      </releaseNotes>
       <enclosure
         url="https://github.com/USER/REPO/releases/download/v0.0.9/WindowShift-0.0.9.zip"
         version="0.0.9"
