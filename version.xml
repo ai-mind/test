@@ -17,6 +17,22 @@
         edSignature="BASE64..."
         length="12055563"
         type="application/zip"/>
+    </item> 
+
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sat, 12 Dec 2025 20:15:05 +0000</pubDate>
+      <minimumSystemVersion>12.1</minimumSystemVersion>
+      <releaseNotes>
+        Some bugs added
+        Release
+      </releaseNotes>
+      <enclosure
+        url="https://github.com/USER/REPO/releases/download/v1.0.0/WindowShift-1.0.0.zip"
+        version="1.0.0"
+        edSignature="BASE64..."
+        length="12055563"
+        type="application/zip"/>
     </item>    
 
     <item>
