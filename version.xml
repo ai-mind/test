@@ -3,13 +3,13 @@
   <channel>
     <title>WindowShift</title>
 
-    <!-- <item>
+    <item>
       <title>Version 2.1.0</title>
       <pubDate>Sat, 13 Dec 2025 19:15:05 +0000</pubDate>
       <minimumSystemVersion>12.1</minimumSystemVersion>
       <releaseNotes>
         Bug fixes
-        New feature: make everything great again
+        New feature: make everything great again hahahfhahfhdafhdahf hfgregfre jv srf erferg. Ervdfvhd cjev wefwre
       </releaseNotes>
       <enclosure
         url="https://github.com/USER/REPO/releases/download/v0.1.0/WindowShift-0.1.0.zip"
@@ -17,7 +17,7 @@
         edSignature="BASE64..."
         length="12055563"
         type="application/zip"/>
-    </item>  -->
+    </item> 
 
     <item>
       <title>Version 1.0.0</title>
